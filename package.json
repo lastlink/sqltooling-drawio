@@ -80,7 +80,7 @@
     "ts-jest": "^29.0.1",
     "ts-node": "^10.9.1",
     "tsify": "^5.0.4",
-    "typeconv": "^1.8.0",
+    "typeconv": "^2.3.1",
     "typescript": "^5.0.2",
     "vinyl-buffer": "^1.0.1",
     "vinyl-source-stream": "^2.0.0"
